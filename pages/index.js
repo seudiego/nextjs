@@ -7,13 +7,15 @@ export default function Home() {
       <Head>
         <title>TESTE Next App</title>
         <br>    
-        <p>PAMONHA!!! PAMONHA!!!<\p>
+
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
+         <br>
+         <p>PAMONHA!!! PAMONHA!!!</p>
         </h1>
 
         <p className={styles.description}>
