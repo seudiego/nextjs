@@ -14,9 +14,10 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
-         <br>
-         <p>PAMONHA!!! PAMONHA!!!</p>
         </h1>
+    
+             <br></br>
+         <p>PAMONHA!!! PAMONHA!!!</p>
 
         <p className={styles.description}>
           Get started by editing{' '}
